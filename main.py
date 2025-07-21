@@ -5,7 +5,7 @@ import os
 from groq import Groq
 
 client = Groq(
-    api_key="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"
+    api_key="GROQ_API_KEY"
 )
 
 
